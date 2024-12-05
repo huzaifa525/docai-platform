@@ -108,4 +108,4 @@ docker-compose -f docker-compose.prod.yml up -d
 
 ## License
 
-MIT © [Your Name]
+MIT © Huzefa Nalkheda wala
